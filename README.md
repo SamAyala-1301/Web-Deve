@@ -19,17 +19,5 @@ Dev Dependencies
 
 	•	TypeScript: 4.1.3
 	•	Babel Runtime: 7.13.8
- 
-File Structure
 
- src/
-  ├── Routes/
-  │   ├── Home.js
-  │   ├── About.js
-  │   ├── Service.js
-  │   ├── Contact.js
-  │   └── SignUp.js
-  ├── App.js
-  ├── index.js
-  └── styles.css
 
